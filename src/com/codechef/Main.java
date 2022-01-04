@@ -13,6 +13,10 @@ public class Main {
         map.put("ravit",23);
         System.out.println(map);
 
+    /*
+    Duplicate key values are not allowed like in above i have taken two keys same that is alok 20 and
+    alok 21 so it will take 2nd alok as a key value pair.
+     */
 
     }
 }
